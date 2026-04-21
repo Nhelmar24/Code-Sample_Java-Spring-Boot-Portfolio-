@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Java Spring Boot Thymeleaf Portfolio
 
 A simple, clean portfolio application built with **Java Spring Boot 3.x** and **Thymeleaf**. Demonstrates full-stack development skills with MVC architecture, responsive UI, and production-ready features.
@@ -50,9 +48,4 @@ src/main/
 
 ***
 
-**Built by Nelmar Dapulang** | [Fullstack Developer][^1]
-
-<div align="center">⁂</div>
-
-[^1]: https://github.com/chaurasia-aditya/spring-portfolio-website
-
+**Built by Nelmar Dapulang** | [Fullstack Developer]
